@@ -1,2 +1,2 @@
 # rocket_sicence
-# First time try to use
+for a quant trading project
